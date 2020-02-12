@@ -1,4 +1,4 @@
-# Volley Map Android Example
+# Volley And Map Android Example
 use Api: https://api.myjson.com/bins/e0lq5 for Data
 
 use Api: https://api.myjson.com/bins/130t4t for Location
